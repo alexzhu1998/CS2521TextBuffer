@@ -12,7 +12,7 @@ A simple Text Buffer implementation using C, and doubly linked list data structu
 * [Source](#source)
 
 ## General Info
-This is a crude C implementation of text buffers that forms the basis of shell terminal text buffers. While it has no standard input, and it requires users to manipulate the functions directly, it has standard output.
+This is a crude C implementation of text buffers that forms the basis of shell terminal text buffers. Unfortunately, it doesn't offer standard input but it can be outputted to stdout as character arrays.
 
 ## Technologies
 C17 was the version of C used.
